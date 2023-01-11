@@ -1,8 +1,8 @@
 {
     "name": "Dracula material",
-    "author": "Sam van der Kris, based on Dracula by Zeno Rocha",
+    "author": "Julia van der Kris, based on Dracula by Zeno Rocha",
     "maintainers": [
-        "Sam van der Kris <samvdkris@gmail.com>"
+        "Julia van der Kris <julia@juuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuulia.dev>"
     ],
     "semanticClass": "theme.dracula",
     "dracula": {
